@@ -1,0 +1,16 @@
+---
+title: "exercise 1"
+author: "Silvia"
+date: "15/01/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+compensation<- read.csv("compensation.csv")
+
+
+```
